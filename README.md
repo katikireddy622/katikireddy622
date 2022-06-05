@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working as a senior software developer at Scania CV AB
+- 🔭 I’m currently working as a Senior DevOps developer at Sinch AB
 - 🌱 I've 3+ years of experience in developing and maintaining cloud native applications
 - 💬 Ask me about Cloud, DevOps and Development 
 
